@@ -23,7 +23,7 @@
   ],
   "dependencies": {
     "cross-spawn": "^0.2.3",
-    "graceful-fs": "^4.1.3",
+    "graceful-fs": "^4.1.11",
     "tmp": "~0.0.25"
   },
   "optionalDependencies": {
